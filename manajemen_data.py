@@ -1,0 +1,3 @@
+daftar_siswa = []
+
+def
