@@ -1,3 +1,0 @@
-daftar_siswa = []
-
-def
