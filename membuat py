@@ -1,2 +1,0 @@
-dict = ("nama", 12, "L", "nama", 13, "P")
-print(dict)
