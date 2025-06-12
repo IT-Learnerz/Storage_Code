@@ -1,0 +1,13 @@
+import os
+os.system('cls' if os.name == 'nt' else 'clear')
+isi = []
+
+for i in range(0,5):
+    val = int(input(f"Masukkan Bilangan ke-{i+1}: "))
+    isi.append(val)
+
+if val in isi %2 == 0:
+    
+print(f"Jumlah Bilangan genap: {isi}")
+
+kode lama

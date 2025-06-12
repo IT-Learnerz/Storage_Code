@@ -1,0 +1,28 @@
+import os
+os.system('cls'if os.name == 'nt' else 'clear')
+
+pilihan = (input("Pilihan Anda: "))
+def tampilan():
+    print("Pilih Menu: \n1. Luas Persegi \n2. Luas Lingkaran")
+
+def luas_persegi(sisi)
+    val1=input("masukkan Panjang sisi persegi: ")
+    sisi * sisi
+    return sisi
+
+def luas_lingkaran(r):
+    val2=float(input("Masukkan Jari-Jari: "))
+    3,14 * r * r
+    return r
+
+def fungsi():
+    if pilihan == "1":
+        luas_persegi(sisi)
+    elif pilihan == "2":
+        luas_lingkaran(r)
+
+fungsi()
+
+        
+
+        
